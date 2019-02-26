@@ -39,8 +39,7 @@ body {
 	margin-top: 40px;
     padding: 20px;
 }
-.container
-{
+.container{
     width: 1200px;
     min-height: 500px;
     background: #fff   
@@ -58,3 +57,7 @@ p{
     font-family: 'Eczar', serif;
     size: 275%
 }
+
+
+
+
