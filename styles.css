@@ -7,16 +7,12 @@ header {
     display: flex;
     align-items: center;
 }	
-
 header * {
     display: inline;
 }
-
 header li {
     margin: 20px;
 }
-
-
 h1  {
 	color : #ffdb58;
 	text-indent: 75px;
@@ -31,8 +27,6 @@ h2 {
 i {
 	background: black;
 	color :white;
-
-
 }
 ul{
     position: left
@@ -51,7 +45,6 @@ body {
     min-height: 500px;
     background: #fff   
     margin: 70px auto:0;
-
 }
 img {
     height: 250px;
